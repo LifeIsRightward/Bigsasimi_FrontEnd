@@ -14,7 +14,7 @@ https://youtu.be/5spIMh7CQFc
 - Splash Screen
 <br>
 
-![Splash screen](https://github.com/user-attachments/assets/18ce26dc-b76a-4627-8f5d-fbab5a00060a){: width="60%" height="60%"}
+<img src="https://github.com/user-attachments/assets/18ce26dc-b76a-4627-8f5d-fbab5a00060a" width="60% height="60%"/>
 
 <br>
 
