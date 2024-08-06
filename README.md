@@ -12,8 +12,9 @@ https://youtu.be/5spIMh7CQFc
 <br>
 
 - Splash Screen
+![Splash screen](https://github.com/user-attachments/assets/8f1a1de2-d596-4c0f-a7ce-e563a81dc626)
 
-<img src="https://github.com/user-attachments/assets/18ce26dc-b76a-4627-8f5d-fbab5a00060a.jpeg" width="60% height="60%">
+<img src="https://github.com/user-attachments/assets/8f1a1de2-d596-4c0f-a7ce-e563a81dc626" width="60% height="60%">
 <img src="https://github.com/user-attachments/assets/18ce26dc-b76a-4627-8f5d-fbab5a00060a.png" width = "60%" height = "60">
 <br>
 
