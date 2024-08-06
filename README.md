@@ -8,6 +8,7 @@
 https://youtu.be/5spIMh7CQFc
 
 ## 서비스 & 기능
+
 - Splash Screen
 ![Splash screen](https://github.com/user-attachments/assets/18ce26dc-b76a-4627-8f5d-fbab5a00060a)
 <br>
