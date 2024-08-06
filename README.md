@@ -1,5 +1,54 @@
 # FrontEnd
 
+## 개발 인원
+19 김대현(빅데이터, FE)
+20 송정원(심리학과, Design)
+
+## 발표 영상
+https://youtu.be/5spIMh7CQFc
+
+## 서비스 & 기능
+- Splash Screen
+![Splash screen](https://github.com/user-attachments/assets/18ce26dc-b76a-4627-8f5d-fbab5a00060a)
+<br>
+
+- Login & Register
+![로그인](https://github.com/user-attachments/assets/b83cb417-cd8c-4494-b474-deade81faba9)
+![회원가입](https://github.com/user-attachments/assets/2fa8a369-2e6c-4319-90f4-8322bcca9999)
+<br>
+
+- Profile
+![프로필1](https://github.com/user-attachments/assets/0fd84b81-6291-4725-a544-92cf7aab4f61
+<br>
+
+- Upload
+![업로드(메인)](https://github.com/user-attachments/assets/db6921b4-d2cb-41ac-96d1-e9d347a46ae9)
+![업로드(사진선택2)](https://github.com/user-attachments/assets/d7e31411-fe10-4af6-ae25-84dcf2ff06e3)
+![업로드(수동기입)](https://github.com/user-attachments/assets/4556df4a-5a59-4bd8-a170-242a60faabb0)
+![업로드(검색기입)](https://github.com/user-attachments/assets/3891f67b-270b-420f-86ed-f788157119c2)
+<br>
+
+- Intaken Nutrition
+![그래프(정보칸)](https://github.com/user-attachments/assets/29ef83a8-b730-485d-bedb-115ce83f2970)
+![그래프(변화한 그래프)](https://github.com/user-attachments/assets/0f0bb24a-34b2-4112-8b39-29783690f7a6)
+<br>
+
+- Nutrition Hystory
+![영양기록2](https://github.com/user-attachments/assets/88d7a6d5-6028-4bf5-8088-cd6efe32df62)
+<br>
+
+- Health News
+![오늘의건강뉴스5](https://github.com/user-attachments/assets/9d1278c8-432d-4822-a001-b842add5b4e5)
+<br>
+
+- Maps
+![근처식당](https://github.com/user-attachments/assets/ef5efdb8-58d8-494f-b183-e2847ebce84a)
+
+
+
+
+
+
 ## API 공통
 Flutter 의 특징으로 비동기 작업의 결과를 나타내며, 미완료 또는 완료의 두 가지 상태를  가질 수 
 있다.(비동기의 특징으로써, 작업의 결과를 기다리지 않고 바로 다음 작업으로 넘어감. 후에 작업이 
